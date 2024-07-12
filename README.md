@@ -9,16 +9,17 @@ Explore the Web2.5 team projects developed by our students. Below, you will find
 
 ### Project 1
 - Description: Ethereum network management with Docker.  
-- Repository: [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/codecrypto-academy/pfm-web2.5-jun24-1)
+- Repository: https://github.com/codecrypto-academy/pfm-web2.5-jun24-1
 
 
 ### Project 2
 - Description: Ethereum network management with Docker.  
-- Repository: [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/codecrypto-academy/pfm-web2.5-jun24-2)
+- Repository: https://github.com/codecrypto-academy/pfm-web2.5-jun24-2
 
 
 ---
 
 ## License
 
-All projects within this repository are licensed under the CodeCrypto Academy Proprietary License. See the [LICENSE](LICENSE) file for details.
+All projects within this repository are licensed under the CodeCrypto Academy Proprietary License. 
+See the [LICENSE](LICENSE) file for details.
