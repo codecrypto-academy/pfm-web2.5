@@ -8,13 +8,13 @@ Explore the Web2.5 team projects developed by our students. Below, you will find
 ## JUN 2024
 
 ### Project 1
-**Description**: Ethereum network management with Docker.  
-**Repository**: [GitHub Repo][(https://github.com/username/project2)](https://github.com/codecrypto-academy/pfm-web2.5-jun24-1)
+- Description: Ethereum network management with Docker.  
+- Repository: [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/codecrypto-academy/pfm-web2.5-jun24-1)
 
 
 ### Project 2
-**Description**: Ethereum network management with Docker.  
-**Repository**: [GitHub Repo][(https://github.com/username/project2)](https://github.com/codecrypto-academy/pfm-web2.5-jun24-2)
+- Description: Ethereum network management with Docker.  
+- Repository: [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/codecrypto-academy/pfm-web2.5-jun24-2)
 
 
 ---
